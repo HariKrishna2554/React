@@ -1,1 +1,7 @@
-Constant
+React:
+======
+React allows to create re-usable & reactive components consisting of HTML & JS (& CSS)
+
+Declarative approach:
+======================
+Declarative programming is a method to abstract way the control flow for logic required for software to perform an action, and instead involves stating what the task or desired outcome is.
